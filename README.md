@@ -7,5 +7,6 @@ Sử dụng Excel để làm sạch dữ liệu và xây dựng dashboard để 
 
 - Xây dựng dashboard
   + Sử dụng pivot table để lọc kết quả doanh thu theo từng tháng, năm và theo từng loại sản phẩm và khách hàng
-  + Sắp xếp dự liệu và lọc để tìm ra TOP 5 khu vực và khách hàng có doanh thu nhiều nhất 
+  + Sắp xếp dự liệu và lọc để tìm ra TOP 5 khu vực và khách hàng có doanh thu nhiều nhất
+
 ![image](https://github.com/user-attachments/assets/472d2008-0a53-4732-9564-d149891bc0ac)
